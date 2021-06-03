@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srkuntz
-- 👀 I’m interested in tech sales 
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me on linkedin
+- 📫 How to reach me @linkedin
